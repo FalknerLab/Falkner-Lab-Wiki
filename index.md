@@ -1,1 +1,1 @@
-# Lab Wiki (In Progress) (Take 2)
+Lab Wiki (In Progress) (Take 2)
