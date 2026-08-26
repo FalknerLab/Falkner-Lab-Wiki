@@ -74,6 +74,12 @@ defaults:
 
 category_order: [Introduction, Onboarding, Lab Administration, Surgery]
 
+collections:
+        sections:
+                output: false
+        chapters:
+                output: true
+
 # -----------
 # CloudCannon
 
