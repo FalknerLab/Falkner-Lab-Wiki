@@ -2,14 +2,14 @@
 # Site
 
 title: Falkner Lab Wiki
-url: "https://long-pig.cloudvent.net"
+url: ""
 baseurl:
 google_analytics_key:
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product documentation template for Jekyll.
+description: These are the protocols and resources for the Falkner Lab at Princeton University.
 author:
   name:
   email:
@@ -17,7 +17,7 @@ author:
 social:
   name: Falkner Lab Wiki
   links:
-    - https://github.com/CloudCannon/edition-jekyll-template
+    -
 
 # -----
 # Build
@@ -70,6 +70,9 @@ defaults:
     values:
       _comments:
         type: Marks the impact of this release
+
+
+category_order: [Introduction, Onboarding, Lab Administration, Surgery]
 
 # -----------
 # CloudCannon
