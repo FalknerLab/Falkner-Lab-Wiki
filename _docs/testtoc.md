@@ -1,7 +1,7 @@
 ---
 title: Example TOC
 category: Introduction
-order: 1
+order: 3
 ---
 
 * [First Thing](#this-is-the-first-thing)
