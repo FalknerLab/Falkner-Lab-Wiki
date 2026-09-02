@@ -1,10 +1,7 @@
-import json
-import os
 import re
 
 
 page_file = 'wiki_pages.txt'
-
 
 with open(page_file) as f:
     lines = f.readlines()
