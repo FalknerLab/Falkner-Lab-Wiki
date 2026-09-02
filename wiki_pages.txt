@@ -1,0 +1,82 @@
+1. Introduction
+   1. Finding the Lab
+   2. Contact Information
+   3. Other Information
+2. Onboarding
+   1. First Steps
+   2. Onboarding - Undergraduate Student
+   3. Onboarding - Graduate Student
+   4. Onboarding - Postdoctoral Scholar 
+   5. Onboarding - Research Specialist
+3. General Lab Information
+   1. Meetings
+   2. Concur
+   3. Ordering
+      1. Lab supplies
+      2. Mice
+   4. Lab jobs/tech responsibilities
+   5. Inspections
+4. Mouse Colony
+   1. Weaning/breeders
+   2. Genotyping
+   3. Softmouse
+5. Estrous Staging
+6. Jacketing
+7. Histology
+   1. Perfusions
+   2. Cryostat
+   3. Mounting tissue
+   4. Coverslipping
+   5. Imaging
+      1. Nanozoomer
+      2. Confocal microscope
+   6. Cell counting
+      1. FIJI
+      2. Script
+   7. IHC
+      1. Protocol
+      2. Antibody database
+   8. RNAscope
+      1. Protocol
+      2. RNAscope inventory
+8. Surgeries
+   1. NPX
+   2. Viral injection
+      1. Protocol
+      2. Virus/Minus80 freezer inventory
+   3. Ovariectomy
+   4. Grin lens
+   5. Viral stock
+9. Rigs
+   1. Double poke rig
+   2. Territory rig
+   3. USV playpen
+   4. Longitudinal Hormone Tracking
+   5. Aggression and Observation
+10. Fabrication
+   1. 3D Printing
+   2. Multifiber Implant Building
+   3. Neuropixel headstage
+   4. Single fiber photometry
+11. Data management
+   1. Github
+   2. Cloud computing 
+      1. Spock 
+      2. Della
+   3. Connecting to the cup
+   4. Using the virtual machine
+12. Analysis software
+   1. SLEAP
+   2. Boris
+   3. Kilosort/Phy
+13. Printable resources
+   1. Surgery logs
+   2. Satellite room logs
+   3. Resider intruder logs
+14. Inventories
+   1. Virus/Minus80 freezer inventory
+      1. Aliquoting
+   2. Antibody database
+   3. RNAscope materials
+   4. Softmouse
+15. Offboarding
