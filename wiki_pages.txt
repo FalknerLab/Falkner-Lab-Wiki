@@ -63,7 +63,7 @@
    2. Cloud computing 
       1. Spock 
       2. Della
-   3. Connecting to the cup 
+   3. Connecting to the cup
    4. Using the virtual machine
 12. Analysis software
    1. SLEAP

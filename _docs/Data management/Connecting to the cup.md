@@ -1,4 +1,4 @@
 ---
-title: Connecting to the cup 
+title: Connecting to the cup
 category: Data management
 ---

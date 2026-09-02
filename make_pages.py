@@ -1,3 +1,4 @@
+import os
 import re
 
 
@@ -21,9 +22,10 @@ with open(page_file) as f:
             match level:
                 case 0:
                     cur_cat = txt
+                    os.mkdir(f'_docs/{cur_cat}')
                 case 3:
                     md_file_content = f'---\ntitle: {txt}\ncategory: {cur_cat}\n---\n'
-                    md_title = f'_docs/{'-'.join(txt.split('/'))}.md'
+                    md_title = f'_docs/{cur_cat}/{'-'.join(txt.split('/'))}.md'
                 case 6:
                     md_file_content += f'* [{txt}](#{'-'.join(txt.lower().split(' '))})\n'
             last_level = level
