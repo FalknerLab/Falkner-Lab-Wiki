@@ -72,7 +72,7 @@ defaults:
         type: Marks the impact of this release
 
 
-category_order: [Introduction, Onboarding, Lab Administration, Surgery]
+category_order: [Introduction, Onboarding, General Lab Information, Mouse Colony, Hormone Priming and Estrous Staging, Jacketing, Histology, Surgeries, Rigs, Fabrication, Data management, Analysis software, Printable resources, Inventories, Offboarding]
 
 # -----------
 # CloudCannon
