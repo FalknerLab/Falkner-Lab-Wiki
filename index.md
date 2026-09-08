@@ -1,9 +1,20 @@
 ---
-title: Welcome!
+title: Welcome to Falkner Lab Wiki!
 ---
-# Welcome to the Falkner Lab Wiki!
+## Finding the Lab
+The Falkner Lab is located on the first floor of the Princeton Neuroscience Institute at PNI164.
 
-## Our Mission
-When we engage in social interactions,  these experiences change our perception of the world and our choice of future actions.  These social experiences can be trivial and everyday (e.g., interacting with a friend or neighbor) or can be life-changing and profound (e.g., having a child). Subcortical structures in the brain including the hypothalamus, amygdala, and midbrain are critical for initiating and maintaining social interactions including mating, aggression, prosocial, and parental behaviors.  In our lab, we are interested in how social experiences change the computational properties of these neural circuits and alter information flow to change behavior. We interrogate the roles of these circuits at many levels in the behaving animal using a combination of electrophysiology, molecular tools for  perturbation, cell-type specific imaging, quantitative behavior analysis,  and modeling. In addition, we design and deploy novel tasks for assaying social behavior in mice to better detect and quantify social dysfunction.
+40 Woodlands Wy, Princeton, NJ 08540
 
+## Contact Information
+If you have any questions about the lab, please contact:
+
+* Annegret Falkner - afalkner@princeton.edu
+
+* Alissa Le - al1824@princeton.edu
+
+Alternatively, you can reach out to our lab email - falknerlabpni@gmail.com
+
+## Other Information
+If you have any protocols or information that you would like to add to this wiki, please send a slack with additional materials to the #wiki channel on our Falkner Lab slack!
 ![](images/labphoto.jpg)
