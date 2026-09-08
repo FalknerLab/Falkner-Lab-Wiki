@@ -6,7 +6,7 @@
    1. First Steps
    2. Onboarding - Undergraduate Student
    3. Onboarding - Graduate Student
-   4. Onboarding - Postdoctoral Scholar 
+   4. Onboarding - Postdoctoral Scholar
    5. Onboarding - Research Specialist
 3. General Lab Information
    1. Meetings
@@ -14,13 +14,19 @@
    3. Ordering
       1. Lab supplies
       2. Mice
-   4. Lab jobs/tech responsibilities
+   4. Lab tasks
    5. Inspections
+   6. Protocol
 4. Mouse Colony
-   1. Weaning/breeders
-   2. Genotyping
-   3. Softmouse
-5. Estrous Staging
+   1. Breeding
+   2. Weaning
+   3. Genotyping
+      1. Protocol
+      2. Aliquoting Primers
+   4. Softmouse
+5. Hormone Priming and Estrous Staging
+   1. Hormone preparation and priming
+   2. Estrous Staging
 6. Jacketing
 7. Histology
    1. Perfusions
@@ -33,7 +39,7 @@
    6. Cell counting
       1. FIJI
       2. Script
-   7. IHC
+   7. Immunohistochemistry (IHC)
       1. Protocol
       2. Antibody database
    8. RNAscope
@@ -41,12 +47,11 @@
       2. RNAscope inventory
 8. Surgeries
    1. NPX
-   2. Viral injection
+   2. Grin lens
+   3. Ovariectomy
+   4. Viral injection
       1. Protocol
       2. Virus/Minus80 freezer inventory
-   3. Ovariectomy
-   4. Grin lens
-   5. Viral stock
 9. Rigs
    1. Double poke rig
    2. Territory rig
@@ -54,14 +59,15 @@
    4. Longitudinal Hormone Tracking
    5. Aggression and Observation
 10. Fabrication
-   1. 3D Printing
-   2. Multifiber Implant Building
-   3. Neuropixel headstage
-   4. Single fiber photometry
+   1. Multifiber Implant Building
+   2. Neuropixel headstage
+   3. Single fiber photometry
+   4. Laser cutter
+   5. 3D Printing
 11. Data management
    1. Github
-   2. Cloud computing 
-      1. Spock 
+   2. Cloud computing
+      1. Spock
       2. Della
    3. Connecting to the cup
    4. Using the virtual machine
@@ -75,7 +81,7 @@
    3. Resider intruder logs
 14. Inventories
    1. Virus/Minus80 freezer inventory
-      1. Aliquoting
+      1. Aliquoting viruses
    2. Antibody database
    3. RNAscope materials
    4. Softmouse

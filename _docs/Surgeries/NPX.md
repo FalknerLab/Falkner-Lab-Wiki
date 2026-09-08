@@ -1,4 +1,0 @@
----
-title: NPX
-category: Surgeries
----

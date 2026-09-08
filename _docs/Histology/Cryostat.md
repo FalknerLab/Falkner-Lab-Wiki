@@ -1,4 +1,0 @@
----
-title: Cryostat
-category: Histology
----

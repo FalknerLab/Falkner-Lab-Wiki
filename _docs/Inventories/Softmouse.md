@@ -1,4 +1,0 @@
----
-title: Softmouse
-category: Inventories
----

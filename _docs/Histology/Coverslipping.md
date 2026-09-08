@@ -1,4 +1,0 @@
----
-title: Coverslipping
-category: Histology
----

@@ -1,4 +1,0 @@
----
-title: Ovariectomy
-category: Surgeries
----
