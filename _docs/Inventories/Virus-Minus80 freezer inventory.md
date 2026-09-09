@@ -5,4 +5,4 @@ category: Inventories
 
 * [Aliquoting viruses](#aliquoting-viruses)
 
-<iframe src="https://docs.google.com/spreadsheets/d/1tf_FxPFG7KcZB4jTVVgyyqCUPm5IYooazhMrjZ7T_00/htmlview" width=100% height=500vh></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1PXbsUiEMmzVcg2oNBD780gyMLZ7H6PpHOxKPjYDF72E/edit?gid=681153605#gid=681153605" width=100% height=500vh></iframe>
