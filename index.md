@@ -17,4 +17,8 @@ Alternatively, you can reach out to our lab email - falknerlabpni@gmail.com
 
 ## Other Information
 If you have any protocols or information that you would like to add to this wiki, please send a slack with additional materials to the #wiki channel on our Falkner Lab slack!
+
+<br><br><br><br><br><br>
+
+This is our lab :)
 ![](images/labphoto.jpg)
